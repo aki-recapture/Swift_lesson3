@@ -1,10 +1,7 @@
-//
 //  MemoTableTableViewController.swift
 //  MyMemoApp
-//
 //  Created by xxxxx on 2020/06/16.
 //  Copyright © 2020 xxxxx. All rights reserved.
-//
 
 import UIKit
 
